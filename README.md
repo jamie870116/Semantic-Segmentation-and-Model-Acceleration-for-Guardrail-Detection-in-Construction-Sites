@@ -3,7 +3,6 @@ This study aims to adopt different models and apply various model compression an
 
 # Usage
 ## Dataset
-***
 
 ### **Source**
 The dataset used in this project is sourced from the "Application and Promotion of Artificial Intelligence in Hazard Identification of Construction Engineering" project of the Occupational Safety and Health Administration, Ministry of Labor in 2021. As a result, the dataset is not publicly available.
